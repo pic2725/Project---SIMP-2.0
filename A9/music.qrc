@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../Library/Mobile Documents/com~apple~CloudDocs/Songs/ChipTune3.aif</file>
+        <file>../../Library/Mobile Documents/com~apple~CloudDocs/Songs/ChipTune1.aif</file>
+        <file>../../Library/Mobile Documents/com~apple~CloudDocs/Songs/ChipTune2.aif</file>
+    </qresource>
+</RCC>
